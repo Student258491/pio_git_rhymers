@@ -1,3 +1,4 @@
+//Dokonano walidacji projektu i projekt jest poprawny.
 package edu.kis.vh.nursery;
 
 import org.junit.Assert;
